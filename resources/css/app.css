@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-primary {
+    background-color: rgb(77, 181, 249);
+}
+.bg-secondary{
+    background-color: rgb(0, 149, 246);
+}
+
+.bg-contain{
+    background-color: rgb(18, 18, 18);
+}
